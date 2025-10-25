@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://vegamovies-orignal.pages.dev/sitemap.xml
